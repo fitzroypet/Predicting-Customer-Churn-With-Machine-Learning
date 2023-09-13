@@ -1,4 +1,4 @@
-INTRODUCTION
+CUSTOMER CHURN PREDICTION
 
 Customer churn is used to describe a situation where customers or subscribers stop doing business with a company or service within a given period of time. A high rate of customer churn impedes business growth. A study has shown that it is 5 to 25 times more expensive to get new customers than to retain existing ones. Therefore companies need to find ways to prevent this or bring it to the barest minimum.
 
